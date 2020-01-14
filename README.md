@@ -16,3 +16,7 @@ git push
 git checkout -- filename  # To restore a file which has been deleted
 
 For some reason, those above commands appear on separate lines in a file editor, but all on the same line on the Github web page.
+
+Another test edit from home PC
+
+
