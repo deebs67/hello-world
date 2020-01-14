@@ -13,3 +13,5 @@ git status
 git add -A
 git commit -m "some commit message"
 git push
+
+For some reason, those above commands appear on separate lines in a file editor, but all on the same line on the Github web page.
